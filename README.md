@@ -1,6 +1,7 @@
 # Artificial-Intelligence
 
 1️⃣ Foundations (Must Have)
+
 🔹 Mathematics
 
 Linear Algebra (vectors, matrices)
